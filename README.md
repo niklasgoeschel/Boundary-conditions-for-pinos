@@ -2,7 +2,7 @@
 
 
 The resulting data we generated in our experiments can be found in
-https://figshare.com/s/d836ba71c037c530327d.
+https://figshare.com/s/778dbb3b88fa70dacd8e.
 
 We used the conda environment [environment.yml](environment.yml) and installed pytorch with the command
 ```
